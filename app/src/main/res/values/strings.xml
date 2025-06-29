@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Work1</string>
+    <string-array name="units">
+        <item>Centimeters to Meters</item>
+        <item>Meters to Kilometers</item>
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+        <item>Grams to Kilograms</item>
+    </string-array>
+</resources>
